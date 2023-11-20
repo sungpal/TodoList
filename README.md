@@ -1,5 +1,8 @@
 TodoList
 
+# ERD
+![img.png](img.png)
+
 # 기능
 ## User
 **회원가입 API**
